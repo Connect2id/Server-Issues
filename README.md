@@ -1,9 +1,10 @@
 # Connect2id Server Issues #
 
-You can use this repo to submit issues related to the [Connect2id 
-server](http://connect2id.com/server).
+You can use this repo to [submit 
+issues](https://github.com/Connect2id/Server-Issues/issues) related to the 
+[Connect2id server](http://connect2id.com/server).
 
-When submitting anissue, please provide sufficient information to help us with 
+When submitting an issue, please provide sufficient information to help us with 
 its replication and diagnosis, including (where applicable):
 
 1. Version number
